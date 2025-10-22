@@ -1,0 +1,4 @@
+*.html
+!example.html
+
+myprofile.yaml

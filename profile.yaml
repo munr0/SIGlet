@@ -1,0 +1,9 @@
+bannername: glenn
+fullname: Glenn Chappell
+phone: 100-555-0100
+email: info@figlet.org
+website: www.figlet.org
+
+font-size: 11pt
+nocommas: true
+# ^ replace any FIGlet comma with an straight apostrophe (a,d,g,q,u,y)
